@@ -3,9 +3,8 @@
 <h3 align="center"> Army Veteran | Software Developer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/ramonvcs/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ramon_Valentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonvcs/"></a>
-<a href="https://twitter.com/RamonvCS"><img alt="Twitter" src="https://img.shields.io/badge/-RamonvCS-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RamonvCS"></a>
-<a href="https://dev.to/ramonvcs"><img alt="Dev Community" src="https://img.shields.io/badge/-RamonvCS-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/ramonvcs"></a>
+<a href="https://www.linkedin.com/in/ramonvalentinrivera/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ramon_Valentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonvalentinrivera/"></a>
+<a href="https://github.com/RamonvCS"><img alt="GitHub" src="https://img.shields.io/badge/-RamonvCS-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RamonvCS"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
