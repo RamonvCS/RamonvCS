@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Ramon Valentin 👨‍💻 </h1>
 
-<h3 align="center"> Army Veteran | Software Developer </h3> <br>
+<h3 align="center"> Army Veteran | Passionate Backend & Frontend Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/ramonvalentinrivera/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ramon_Valentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonvalentinrivera/"></a>
@@ -10,11 +10,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Software Development :computer:
--  **Learning :** React, Backend, and Frontend Development :zap:
+-  **Learning :** Backend and Frontend Development :zap:
 -  **Hobbies :** Reading :books: | Gaming :video_game:
 -  **Ask me about :** Military experience, software projects, anything tech-related!
 -  **Fun fact :** I served in the army and now I code to solve real-world problems!
--  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
