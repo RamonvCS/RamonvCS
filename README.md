@@ -14,6 +14,7 @@
 -  **Hobbies :** Reading :books: | Gaming :video_game:
 -  **Ask me about :** Military experience, software projects, anything tech-related!
 -  **Fun fact :** I served in the army and now I code to solve real-world problems!
+-  **Major :** Computer Science 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
