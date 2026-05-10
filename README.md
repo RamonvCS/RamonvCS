@@ -1,157 +1,89 @@
----
-
-# ⚡ Tech Stack
-
 <div align="center">
 
-### 👨‍💻 Languages
+# Ramon Valentin
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css"/>
+### Software Engineer | Army Veteran | Backend & AI Enthusiast
 
-### 🚀 Frameworks & Technologies
+Building practical software solutions with discipline, automation, and clean system design.
 
-<img src="https://skillicons.dev/icons?i=flask,dotnet,react,bootstrap,nodejs"/>
-
-### 🛢️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws"/>
-
-### ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramon%20Valentin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonvalentinrivera/)
+[![GitHub](https://img.shields.io/badge/GitHub-RamonvCS-181717?style=flat&logo=github&logoColor=white)](https://github.com/RamonvCS)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramonvalentincs@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## About Me
 
-<table>
-<tr>
-<td width="50%">
+I am an Army veteran and software engineering student focused on building practical, real-world applications. My background in IT support, military leadership, and systems troubleshooting gives me a strong foundation for developing reliable software solutions.
 
-## 🚢 Fleet Status Dashboard
-
-Real-time monitoring dashboard for tracking fleet assets, alerts, and operational status.
-
-### 🔧 Tech Stack
-`.NET` `.SQL Server` `.Bootstrap` `.WebSockets`
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Helpdesk System
-
-AI-powered helpdesk platform focused on troubleshooting automation and ticket assistance.
-
-### 🔧 Tech Stack
-`Python` `Flask` `SQLite` `OpenAI APIs`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📋 Project Management Platform
-
-Task and inventory management application developed using Agile methodologies.
-
-### 🔧 Tech Stack
-`Python` `Django` `REST APIs`
-
-</td>
-
-<td width="50%">
-
-## 🚗 Car Showcase App
-
-Modern responsive application for displaying vehicle collections and specs.
-
-### 🔧 Tech Stack
-`React` `TypeScript` `Tailwind`
-
-</td>
-</tr>
-</table>
+- Associate Desktop Technician at AbbVie
+- U.S. Army Reserve Staff Sergeant
+- Master’s in Software Engineering & AI Engineering, WGU
+- Focused on backend development, AI systems, automation, and cloud technologies
+- Based in Puerto Rico
 
 ---
 
-# 📊 GitHub Analytics
+## Technical Skills
+
+**Languages:** Python, C#, JavaScript, TypeScript, HTML, CSS  
+**Frameworks:** Flask, .NET, React, Bootstrap  
+**Databases:** SQL Server, SQLite, MySQL  
+**Tools:** Git, GitHub, VS Code, Visual Studio, Linux  
+**Areas of Interest:** Backend Engineering, AI Automation, Cloud Systems, Dashboards, APIs
+
+---
+
+## Featured Projects
+
+### AI Helpdesk System
+AI-powered helpdesk application designed to support troubleshooting, ticket classification, and user assistance workflows.
+
+**Tech:** Python, Flask, SQLite, AI Integration
+
+### Fleet Status Dashboard
+Real-time dashboard concept for monitoring fleet assets, operational status, and alerts.
+
+**Tech:** .NET, SQL Server, Bootstrap, WebSockets
+
+### Project Management Platform
+Web-based project management application for tracking tasks, users, and project progress.
+
+**Tech:** Python, Django, REST APIs
+
+### Car Showcase App
+Responsive vehicle showcase application with modern UI components and clean frontend structure.
+
+**Tech:** React, TypeScript, Tailwind
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonvCS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonvCS&show_icons=true&theme=github_dark&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonvCS&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonvCS&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## Current Goals
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RamonvCS&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RamonvCS&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamonvCS&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-✅ Build enterprise-level software projects  
-✅ Improve cloud architecture & AWS skills  
-✅ Develop AI-powered applications  
-✅ Contribute consistently on GitHub  
-✅ Transition fully into Software Engineering  
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ramonvalentinrivera/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ramonvalentincs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RamonvCS">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+- Build stronger full-stack portfolio projects
+- Improve backend architecture and API design
+- Continue learning AI engineering and cloud development
+- Contribute consistently to GitHub
+- Transition fully into software engineering
 
 ---
 
 <div align="center">
 
-### ⚡ “Building software with discipline, leadership, and passion for technology.”
+### Let’s connect and build something meaningful.
 
 </div>
