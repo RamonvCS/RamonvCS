@@ -1,28 +1,36 @@
-<h1 align="center"> Hello, I'm Ramon Valentin 👨‍💻 </h1>
+<div align="center">
 
-<h3 align="center"> Army Veteran | Passionate Backend & Frontend Developer </h3> <br>
+# 👋 Hey, I'm Ramon Valentin
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/ramonvalentinrivera/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Ramon_Valentin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonvalentinrivera/"></a>
-<a href="https://github.com/RamonvCS"><img alt="GitHub" src="https://img.shields.io/badge/-RamonvCS-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/RamonvCS"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Army+Veteran;Backend+%26+AI+Enthusiast;Building+Real-World+Software+Solutions;Python+%7C+Flask+%7C+.NET+%7C+React+%7C+SQL+Server" alt="Typing SVG" />
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
--  **Working :**  Software Development :computer:
--  **Learning :** Backend and Frontend Development :zap:
--  **Hobbies :** Reading :books: | Gaming :video_game:
--  **Ask me about :** Military experience, software projects, anything tech-related!
--  **Fun fact :** I served in the army and now I code to solve real-world problems!
--  **Major :** Computer Science 
+<br><br>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
+<a href="https://www.linkedin.com/in/ramonvalentinrivera/">
+<img src="https://img.shields.io/badge/LinkedIn-Ramon%20Valentin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamonvCS" alt="RamonvCS" /> </p>
+<a href="https://github.com/RamonvCS">
+<img src="https://img.shields.io/badge/GitHub-RamonvCS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 📊 Profile stats
+<a href="mailto:ramonvalentincs@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![RamonvCS's github stats](https://github-readme-stats.vercel.app/api?username=RamonvCS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/RamonvCS/github-readme-stats)
+<br><br>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=RamonvCS&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Ramon Valentin
+Location: Puerto Rico 🇵🇷
+Role: Software Engineer & Army Reserve Staff Sergeant
+Education: Master's in Software Engineering & AI Engineering
+Focus: Backend Development, AI Systems, Cloud Technologies
